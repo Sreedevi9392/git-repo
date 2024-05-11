@@ -1,1 +1,2 @@
 Admin will provide the permission to db based on the roles and privileges
+Manages database
