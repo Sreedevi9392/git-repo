@@ -1,0 +1,3 @@
+Get the user data....for application development and aiml model creation.
+
+Reduce the manual repetetion work
